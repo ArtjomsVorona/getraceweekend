@@ -1,8 +1,8 @@
 // Edit social profile URLs and card copy here. Empty URLs render as inactive cards.
 const socials = [
-  { name: 'Instagram', description: 'The race, in pictures.', url: 'https://www.instagram.com/getraceweekend/', color: '#00cbb3', icon: '<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".8" fill="currentColor" stroke="none"/>' },
-  { name: 'Threads', description: 'Stats. Stories. Race-day conversations.', url: 'https://www.threads.com/@getraceweekend', color: '#538aee', icon: '<path d="M19.5 8C18.7 4.5 16.2 2.5 12 2.5 6 2.5 3.5 6.6 3.5 12s2.5 9.5 8.5 9.5c4.5 0 7.5-2.5 7.5-6 0-3.8-3.5-5.5-7-5.5-2.5 0-4 1.2-4 3s1.4 3 3.5 3c3 0 4-2.4 4-5.5S14.5 6 12 6c-1.5 0-2.8.6-3.5 1.5"/>' },
   { name: 'YouTube', description: 'More racing. A closer look.', url: 'https://www.youtube.com/@getraceweekend', color: '#ff8700', icon: '<rect x="2" y="5" width="20" height="14" rx="4"/><path d="m10 9 5 3-5 3V9Z" fill="currentColor" stroke="none"/>' },
+  { name: 'Threads', description: 'Stats. Stories. Race-day conversations.', url: 'https://www.threads.com/@getraceweekend', color: '#538aee', icon: '<path d="M19.5 8C18.7 4.5 16.2 2.5 12 2.5 6 2.5 3.5 6.6 3.5 12s2.5 9.5 8.5 9.5c4.5 0 7.5-2.5 7.5-6 0-3.8-3.5-5.5-7-5.5-2.5 0-4 1.2-4 3s1.4 3 3.5 3c3 0 4-2.4 4-5.5S14.5 6 12 6c-1.5 0-2.8.6-3.5 1.5"/>' },
+  { name: 'Instagram', description: 'The race, in pictures.', url: 'https://www.instagram.com/getraceweekend/', color: '#00cbb3', icon: '<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".8" fill="currentColor" stroke="none"/>' },
 ];
 
 const container = document.querySelector('#social-links');
