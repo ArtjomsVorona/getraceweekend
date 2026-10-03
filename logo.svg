@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1008 480" role="img" aria-labelledby="title">
+<title id="title">Race Weekend</title>
+<g fill="#f5f6fa" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+<text x="0" y="252" font-size="260" textLength="668" lengthAdjust="spacingAndGlyphs">RACE</text>
+<text x="0" y="472" font-size="207" textLength="1008" lengthAdjust="spacingAndGlyphs">WEEKEND</text>
+</g>
+<path fill="#00a6b5" d="M711 137h81v115h-81z"/>
+<path fill="#ff8700" d="M818 60h81v192h-81z"/>
+<path fill="#287bbf" d="M926 1h81v251h-81z"/>
+<path fill="#94a3b8" d="M0 278h1008v25H0z"/>
+</svg>
